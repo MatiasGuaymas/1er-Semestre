@@ -8,7 +8,11 @@ Espero que les sea de ayuda, y muchos éxitos. 😀
 
 - Teoría. 
 
+<<<<<<< HEAD
 - Modelos de parciales.
+=======
+- Modelos de parciales + resoluciones.
+>>>>>>> ccab21f048a0802b314c1dedfbb6b3f17711b024
 
 - Finales.
 
@@ -31,4 +35,9 @@ Espero que les sea de ayuda, y muchos éxitos. 😀
 
 ## Autor
 
+<<<<<<< HEAD
 [Matias Guaymas](https://www.linkedin.com/in/matiasguaymas/)
+=======
+[Matias Guaymas](https://www.linkedin.com/in/matiasguaymas/)
+
+>>>>>>> ccab21f048a0802b314c1dedfbb6b3f17711b024
