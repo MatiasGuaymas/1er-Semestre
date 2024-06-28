@@ -1,5 +1,0 @@
-1) ¿Qué es la memoria estática?
-2) ¿Qué es la memoria dinámica?
-3) ¿Qué es una variable del tipo puntero?
-4) ¿Qué hace la operación de NEW sobre una variable del tipo puntero?
-5) ¿Qué hace la operación de DISPOSE sobre una variable del tipo puntero?
