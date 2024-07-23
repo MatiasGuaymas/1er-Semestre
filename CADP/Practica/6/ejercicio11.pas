@@ -11,7 +11,7 @@ egresados que recibirán el premio. La información debe imprimirse ordenada seg
 //Leer lista hasta numero alumno 0. Puedo agregar adelante, ya que no especifica.
 //Vector df 10 de tipo alumno para guardar maximos. Recorro lista guardando maximo promedio y desplazando (maximo 1 en posicion 1)
 
-program ej11;
+program ejercicio11;
 const
     alumnosMaxPromedio=5;
 type

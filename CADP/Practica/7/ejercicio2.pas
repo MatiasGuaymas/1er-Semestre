@@ -20,7 +20,7 @@ estructura.}
 //b) en el bucle principal recorrer la lista. Evaluar con funcion si dni tiene dos digitos 9. Si es asi, imprimir nombre y apellido en el momento
 //c) Modulo aparte que recibe un codigo de cliente, busca y elimina de la lista.
 
-program ej2;
+program ejercicio2;
 const
     codigoCorte=1122;
     cantPoliza=6;

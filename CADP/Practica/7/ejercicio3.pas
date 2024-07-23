@@ -14,7 +14,7 @@ viaje.}
 // del corte de control, para evitar utilizar otra variable)
 //b) Utilizo un modulo insertar ordenado (por numero de viaje) donde ingreso solo aquellos nodos cuyos viajes >5km
 
-program ej3;
+program ejercicio3;
 const    
     kilometrosCondicion=5;
 type

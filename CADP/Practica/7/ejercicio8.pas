@@ -26,7 +26,7 @@ cuales el número de cuenta destino posea menos dígitos pares que impares}
 //c) Dentro del mismo bucle, sumo uno al vector contador de transferencias por motivo. Luego calculo un maximo
 //d) evaluo if(transferencia.fecha.mes=6 and pares<impares) sumo uno a contador cantidad.
 
-program ej8;
+program ejercicio8;
 const
     meses=11;
     motivos=7;

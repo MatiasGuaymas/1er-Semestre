@@ -12,7 +12,7 @@ c. El tamaño promedio de las pantallas de todos los dispositivos.}
 //b) funcion booleana que verifica si memoria>3 and pantalla>=5
 //c) Durante el recorrido de la lista sumo tamaños de pantalla y cuento cantidad de celulares. Luego al finalizar obtengo promedio.
 
-program ej12;
+program ejercicio12;
 const
     ramCondicion=3;
     pantallaCondicion=5;

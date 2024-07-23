@@ -11,7 +11,7 @@ b. El aumento de peso total de cada embarazada durante el embarazo}
 //b) Calcular aumento de peso(peso[dl]-peso[1])
 //Ambos incisos implican recorrer la lista embarazadas, luego recorrer el vector peso y despues informar lo que pida, para ir con el siguiente nodo
 
-program ej4;
+program ejercicio4;
 const
     limiteSemanas=42;
 type

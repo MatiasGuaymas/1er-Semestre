@@ -14,7 +14,7 @@ que se realizó el viaje).
 3. Informar los códigos de los viajes realizados por choferes cuyo DNI tenga sólo dígitos impares.
 Nota: Los códigos de viaje no se repiten.}
 
-program ejercicio5_p7;
+program ejercicio5;
 
 const
     cantCamiones = 10; {Deberían ser 100 por enunciado, pongo menos para probarlo}

@@ -16,7 +16,7 @@ información:
 4. Los nombres de las estrellas cuyos códigos de objeto poseen más dígitos pares que
 impares}
 
-program PracticaRepaso_Ejercicio6;
+program ejercicio6;
 type
 
     cat = 1..7;

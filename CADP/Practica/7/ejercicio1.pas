@@ -7,10 +7,9 @@ Una vez finalizada la lectura de todas las personas, se pide:
 a. Informar la cantidad de personas cuyo DNI contiene más dígitos pares que impares.
 b. Informar los dos códigos de género más elegidos.
 c. Realizar un módulo que reciba un DNI, lo busque y lo elimine de la estructura. El DNI puede no
-existir. Invocar dicho módulo en el programa principal.
-}
+existir. Invocar dicho módulo en el programa principal.}
 
-program ej1;
+program ejercicio1;
 const
     DNICorte=3355;
     generos=5;
