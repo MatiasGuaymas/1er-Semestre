@@ -6,7 +6,7 @@ Espero que les sea de ayuda, y muchos éxitos. 😀
 
 ## CADP
 
-* [**Prácticas Resueltas + Modelos de parciales**](https://github.com/MatiasGuaymas/CADP-Practicas).
+* [**Prácticas Resueltas + Modelos de parciales**](https://github.com/MatiasGuaymas/CADP-Practicas)
 
 * [**Teoría**](https://github.com/MatiasGuaymas/1er-Semestre/tree/main/CADP/Teoria)
 
@@ -14,7 +14,7 @@ Espero que les sea de ayuda, y muchos éxitos. 😀
 
 ## OC
 
-* [**Prácticas Resueltas (con explicaciones) + Modelos de parciales**](https://github.com/MatiasGuaymas/OC-Practicas).
+* [**Prácticas Resueltas (con explicaciones) + Modelos de parciales**](https://github.com/MatiasGuaymas/OC-Practicas)
 
 * [**Teoría**](https://github.com/MatiasGuaymas/1er-Semestre/tree/main/OC/Teoria)
 
