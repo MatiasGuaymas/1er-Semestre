@@ -22,7 +22,7 @@ Espero que les sea de ayuda, y muchos éxitos. 😀
 
 * [**Teoría**](https://github.com/MatiasGuaymas/1er-Semestre/tree/main/MAT1/Teoria)
 
-* [**Modelos de parciales (1er y 2do Parcial) + resoluciones**](https://github.com/MatiasGuaymas/1er-Semestre/tree/main/MAT1/Parciales)
+* [**Modelos de parciales (1er y 2do Parcial) + Resoluciones**](https://github.com/MatiasGuaymas/1er-Semestre/tree/main/MAT1/Parciales)
 
 ## Cómo contribuir
 * Darle estrella (Star) al repositorio.
